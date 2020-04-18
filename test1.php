@@ -1,4 +1,1 @@
-<?php
-
-phoinfo();
-
+first update this file
